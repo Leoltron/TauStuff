@@ -1,0 +1,75 @@
+gui.menu.website=Website
+gui.menu.forum=Forum
+
+tile.campfireFurnace_wood.name=Campfire
+tile.campfireFurnace_blaze.name=Blaze rod campfire
+container.campfireFurnace=Campfire
+
+potion.staminaRecoveryBoost=Stamina Regeneration
+potion.staminaRecoveryBoost.postfix=Potion of Stamina Regeneration
+potion.lightLegs=Light Legs
+potion.lightLegs.postfix=Potion of Light Legs
+potion.pureVision.postfix=Potion of Pure Vision
+potion.pureVision=Pure Vision
+potion.combatRage=Combat rage
+
+msg.addItemStamina.nullItem=Hand must not be empty.
+msg.addItemStamina.notPlayer=Only player can use that command.
+msg.addItemStamina.success1=Successfully added item 
+msg.addItemStamina.success2=with stamina consumption
+
+itemGroup.tauStuffCreativeTab=Tau Stuff
+itemBlock.campfire.desc=Placeable temporary furnace.
+itemBlock.campfire1_0.desc=Heat from blaze rods is too weak for cooking.
+itemBlock.campfire1_1.desc=But enough for brewing.
+
+item.staminaRecoveryBoostPotion.name=Tawny Owl
+item.staminaRecoveryBoostPotion.desc=50% stamina recovery boost.
+item.lightLegsPotionItem.name=Potion of Light Legs
+item.lightLegsPotionItem.desc=25% sprint stamina consumption reduce.
+item.pureVisionPotionItem.name=Potion of Pure Vision
+item.pureVisionPotionItem.desc=Protects from Blindness.
+item.mortarAndPestle.name=Mortar and pestle
+item.paper_sword.name=Paper sword
+item.cactus_sword.name=Cactus sword
+item.paper_sword.msg=Paper cut!
+item.cactus_sword.msg=Pricked!
+
+item.recipeScroll.swallowPotion.name=Swallow Recipe
+item.recipeScroll.blizzardPotion.name=Blizzard Recipe
+item.recipeScroll.whiteRaffardsDecoctionPotion.name=White Raffard's Decoction Potion Recipe
+item.recipeScroll.catPotion.name=Cat Recipe
+item.recipeScroll.orcaPotion.name=Orca Recipe
+item.recipeScroll.thunderboltPotion.name=Thunderbolt Recipe
+item.recipeScroll.awkwardPotion.name=Awkward Potion Recipe
+item.recipeScroll.staminaRecoverBoostPotion.name=Tawny Owl Recipe
+item.recipeScroll.pureVisionPotion.name=Potion of Pure Vision Recipe
+item.recipeScroll.item.recipeScroll.lightLegsPotion.name=Potion of Light Legs Recipe
+
+msg.recipeAlreadyLearned=Recipe already learned
+msg.recipeLearned=Recipe learned
+msg.recipeMemoryCleared=Recipe knowledge cleared
+msg.noPlayerName=Have not found a player named
+msg.recipesOfPlayer=Recipes memory of player
+
+item.desc.learned=Learned
+item.desc.not_learned=Not learned
+
+splash.happyBirthday=Happy Birthday
+menu.connectTau=Connect Tau Server
+
+options.taustuff.title=TauStuff Options
+options.taustuff.showDurability=Show durability of equipped items
+options.taustuff.itemsLight=Item light when in hand or on ground
+options.taustuff.showKillLog=Show kill log
+
+item.swallowPotion.name=Swallow
+item.blizzardPotion.name=Blizzard
+item.whiteRaffardsDecoctionPotion.name=White Raffard's Decoction Potion
+item.catPotion.name=Cat
+item.orcaPotion.name=Orca
+item.thunderboltPotion.name=Thunderbolt
+item.awkwardPotion.name=Awkward Potion
+item.staminaRecoverBoostPotion.name=Tawny Owl
+item.pureVisionPotion.name=Potion of Pure Vision
+item.lightLegsPotion.name=Potion of Light Legs

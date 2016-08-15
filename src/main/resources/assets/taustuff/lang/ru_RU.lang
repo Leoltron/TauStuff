@@ -1,0 +1,75 @@
+gui.menu.website=Сайт
+gui.menu.forum=Форум
+
+tile.campfireFurnace_wood.name=Костёр
+tile.campfireFurnace_blaze.name=Ифритовый костёр
+container.campfireFurnace=Костёр
+
+potion.staminaRecoveryBoost=Восст. запаса сил
+potion.staminaRecoveryBoost.postfix=Зелье регенерации запаса сил
+potion.lightLegs.postfix=Зелье лёгких ног
+potion.lightLegs=Лёгкие ноги
+potion.pureVision.postfix=Зелье ясного зрения
+potion.pureVision=Ясное зрение
+potion.combatRage=Боевая ярость
+
+msg.addItemStamina.nullItem=В руке отутствует предмет.
+msg.addItemStamina.notPlayer=Команда может быть вызвана только игроком.
+msg.addItemStamina.success1=Успешно добавлен предмет
+msg.addItemStamina.success2=с поглощением запаса сил
+
+itemGroup.tauStuffCreativeTab=Tau Stuff
+itemBlock.campfire0.desc=Размещаемая временная печка.
+itemBlock.campfire1_0.desc=Жезлы ифрита излучают жар, недостаточный для готовки.
+itemBlock.campfire1_1.desc=Но его вполне хватает для зельеварения.
+
+item.staminaRecoveryBoostPotion.name=Неясыть
+item.staminaRecoveryBoostPotion.desc=Ускоряет восстановление запаса сил на 50%
+item.lightLegsPotionItem.name=Зелье лёгких ног
+item.lightLegsPotionItem.desc=Уменьшает затраты запаса сил на бег на 25%
+item.pureVisionPotionItem.name=Зелье ясного зрения
+item.pureVisionPotionItem.desc=Даёт иммунитет к эффекту слепоты
+item.mortarAndPestle.name=Ступка и пестик
+item.paper_sword.name=Бумажный меч
+item.cactus_sword.name=Кактусовый меч
+item.paper_sword.msg=Бумажный порез!
+item.cactus_sword.msg=Укололся!
+
+item.recipeScroll.swallowPotion.name=Рецепт Ласточки
+item.recipeScroll.blizzardPotion.name=Рецепт Пурги
+item.recipeScroll.whiteRaffardsDecoctionPotion.name=Рецепт зелья Раффарда Белого
+item.recipeScroll.catPotion.name=Рецепт Кошки
+item.recipeScroll.orcaPotion.name=Рецепт Косатки
+item.recipeScroll.thunderboltPotion.name=Рецепт Грома
+item.recipeScroll.awkwardPotion.name=Рецепт неловкого зелья
+item.recipeScroll.staminaRecoverBoostPotion.name=Рецепт Неясыти
+item.recipeScroll.pureVisionPotion.name=Рецепт зелья ясного зрения
+item.recipeScroll.lightLegsPotion.name=Рецепт зелья лёгких ног
+
+msg.recipeAlreadyLearned=Рецепт уже изучен
+msg.recipeLearned=Рецепт изучен
+msg.recipeMemoryCleared=Все известные рецепты стерты
+msg.noPlayerName=Не найден игрок
+msg.recipesOfPlayer=Знания о рецепах игрока
+
+item.desc.learned=Изучен
+item.desc.not_learned=Не изучен
+
+splash.happyBirthday=С днем рождения
+menu.connectTau=Подключиться к серверу Тау
+
+options.taustuff.title=Настройки TauStuff
+options.taustuff.showDurability=Показывать прочность носимых вещей
+options.taustuff.itemsLight=Свечение предметов в руке и будучи выкинутыми
+options.taustuff.showKillLog=Показывать лог убийств
+
+item.swallowPotion.name=Ласточка
+item.blizzardPotion.name=Пурга
+item.whiteRaffardsDecoctionPotion.name=Зелье Раффарда Белого
+item.catPotion.name=Кошка
+item.orcaPotion.name=Косатка
+item.thunderboltPotion.name=Гром
+item.awkwardPotion.name=Неловкое зелье
+item.staminaRecoverBoostPotion.name=Неясыть
+item.pureVisionPotion.name=Зелье ясного зрения
+item.lightLegsPotion.name=Зелье лёгких ног

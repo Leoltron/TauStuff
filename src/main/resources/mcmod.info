@@ -1,0 +1,12 @@
+[
+{
+  "modid": "taustuff",
+  "name": "TauStuff",
+  "description": "Some good stuff for Tau",
+  "version": "1.07",
+  "mcversion": "1.7.10",
+  "url": "http://ru-craft.net",
+  "logoFile": "logo.png",
+  "authorList": ["Leoltron"]
+}
+]
